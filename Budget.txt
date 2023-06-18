@@ -1,0 +1,15 @@
+Month of the Year 
+Sales in Crores 
+12
+JAN 420
+FEB 342
+MAR 324
+APR 310
+MAY 262
+JUN 185
+JUL 190
+AUG 196
+SEP 217
+OCT 240
+NOV 312
+DEC 438
